@@ -1,16 +1,46 @@
-# fitt_board
+# 🏋️‍♂️ FittBoard – Trainer Dashboard
 
-A new Flutter project.
+A **Flutter-powered** trainer dashboard to streamline your daily bookings, manage workout slots, and track your weekly earnings – all in one place. Designed with a **modern UI**, **gradient themes**, and **responsive layouts** for a seamless experience across devices.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Features
+- 🙋‍♂️ **Greeting Header** with animated welcome
+- 📅 **Today’s Bookings** overview
+- 💰 **Earnings This Week** display
+- ⏰ **Upcoming Slot** tracker
+- ✅ **Profile Status** (e.g., Verified, Pending)
+- ➕ **Add New Slot** with date, time & description
+- 🟣 **Multicolor Gradient UI** across AppBar and buttons
+- 📱 **Fully Responsive Design** (mobile-friendly)
+- 🔔 **Notification Bell** icon
+- ✨ **Lottie Animations** for visual appeal
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## 📷 App Preview
+
+> _Add your app screenshots or preview GIFs here_  
+Example:  
+![Dashboard Preview](https://github.com/yourusername/FittBoard/blob/main/assets/images/dashboard_preview.png)
+
+
+
+## 🛠️ Installation & Setup
+
+Follow these steps to get started:
+
+```bash
+# Clone the repository
+git clone https://github.com/Vicky2505/FittBoard.git
+
+# Navigate to the project folder
+cd FittBoard
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
+```
