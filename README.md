@@ -23,7 +23,7 @@ A **Flutter-powered** trainer dashboard to streamline your daily bookings, manag
 
 > _Add your app screenshots or preview GIFs here_  
 Example:  
-![Dashboard Preview](https://github.com/yourusername/FittBoard/blob/main/assets/images/dashboard_preview.png)
+![Dashboard Preview](https://github.com/Vicky2505/Fitt_Board_App/blob/main/images/app_preview.png)
 
 
 
@@ -33,7 +33,7 @@ Follow these steps to get started:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Vicky2505/FittBoard.git
+git clone https://github.com/Vicky2505/Fitt_Board_App.git
 
 # Navigate to the project folder
 cd FittBoard
