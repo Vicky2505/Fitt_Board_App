@@ -21,8 +21,7 @@ A **Flutter-powered** trainer dashboard to streamline your daily bookings, manag
 
 ## 📷 App Preview
 
-> _Add your app screenshots or preview GIFs here_  
-Example:  
+
 ![Dashboard Preview](https://github.com/Vicky2505/Fitt_Board_App/blob/main/images/app_preview.png)
 
 
